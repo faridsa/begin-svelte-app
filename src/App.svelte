@@ -33,7 +33,8 @@
 
   @media (min-width: 640px) {
     main {
-      max-width: none;
+      max-width: 95%;
+      margin: auto;
     }
   }
 </style>
